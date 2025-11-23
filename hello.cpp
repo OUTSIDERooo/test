@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
-cout << "Hello, Git! Student_A" << endl;
+cout << "Hello, Git! Student_B" << endl;
 return 0;
 }
